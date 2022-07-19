@@ -44,8 +44,9 @@ I think there are more work could be done at Exploratory data analysis and featu
 ![model_train_score.png](img/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
-
+- #### With adding hour feature only
 ![model_test_score_hour.png](img/model_test_score_hour.png)
+- #### With adding all extracted features(month, day, hour)
 ![model_test_score2.png](img/model_test_score2.png)
 
 ## Summary
